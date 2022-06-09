@@ -3,7 +3,7 @@ const draggable_list=document.getElementById('draggable-list');
 const check=document.getElementById('check');
 
 const richestPeople=[
-    'Elon Musk',
+    'Reward Rabieth',
     'bernard Arnault',
     'Jeff Bezos',
     'Bill Gates',
